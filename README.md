@@ -1,7 +1,8 @@
 # To-do-list
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A very basic toDoList app created with Ember.js
+
+This is my first practice with this particular framework and am just getting my head around how it's working so I can create something more complex.
 
 ## Prerequisites
 
